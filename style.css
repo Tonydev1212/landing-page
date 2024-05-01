@@ -1,0 +1,27 @@
+.header{
+    background-color: #1f2937;
+    color: #F9FAF8;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 16px;
+    font-size: 24px;
+}
+
+ul{
+    list-style-type: none;
+    display: flex;
+    margin: 0;
+    padding: 0;
+    gap: 16px;
+}
+
+a{
+    text-decoration: none;
+    color: #F9FAF8;
+    
+}
+
+.logo{
+    font-weight: 700;
+}
