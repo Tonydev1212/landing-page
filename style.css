@@ -2,10 +2,11 @@
     background-color: #1f2937;
     color: #F9FAF8;
     display: flex;
-    justify-content: space-around;
+    justify-content: space-between;
     align-items: center;
-    padding: 16px;
+    padding: 16px 120px;
     font-size: 24px;
+    
 }
 
 ul{
@@ -24,4 +25,39 @@ a{
 
 .logo{
     font-weight: 700;
+}
+.hero{
+    display: flex;
+    justify-content: center;
+    
+    align-items: center;
+    padding: 100px 120px;
+    
+
+    background-color: #1f2937;
+    color: #F9FAF8;
+}
+img{
+    width: 441px;
+    height: 230px;
+    margin: 0;
+    padding-left: 40px;
+    
+}
+
+.text{
+    height: 230px;
+    width: 441px;
+    margin: 0;
+    padding: 0;
+}
+.hero-title{
+    margin: 0;
+    padding: 0;
+    font-size: 48px;
+    font-weight: bolder;
+}
+p{
+    font-size: 18px;
+    color: #E5E7EB;
 }
