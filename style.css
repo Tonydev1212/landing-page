@@ -132,3 +132,33 @@ p{
     font-weight: 700;
     font-size: 24px;
 }
+.container2{
+    height: 300px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.blue{
+    display: flex;
+    gap: 52px;
+    background-color: #3882f6;
+    padding: 50px 140px;
+    border-radius: 10px;
+}
+.bold{
+    font-size: 25px;
+    font-weight: 700;
+    color:#F9FAF8;
+}
+.casual{
+    font-size: 20px;
+    color: #F9FAF8;
+}
+.upsign{
+    background-color: #3882f6;
+    padding: 0px 32px;
+    color: #F9FAF8;
+    font-weight: 700;
+    border-radius: 10px;
+    border-color: #F9FAF8;
+}
